@@ -1,0 +1,18 @@
+{
+  "name": "publictest",
+  "version": "1.2.3",
+  "packageManager": "npm@8.1.4",
+  "description": "public test repo",
+  "keywords": [
+    "publictest"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ingmarvonfintel/publictest"
+  },
+  "author": {
+    "name": "Ingmar von Fintel",
+    "email": "24919261+ingmarvonfintel@users.noreply.github.com"
+  },
+  "license": "MIT"
+}
